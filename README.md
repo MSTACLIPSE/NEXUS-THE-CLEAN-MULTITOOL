@@ -137,20 +137,7 @@ Nexus/
 
 - NEXUS itself stores no logs – all history and config are managed by the individual tools.
 - Keep the `tools/` folder clean; broken scripts are silently skipped.
-- Run inside a terminal with a dark background for the best colour experience.
-
----
-
-<br>
-
-> # ⚖️ LEGAL WARNING
-> **This software is provided exclusively for authorised security testing, red team assessments, and academic research.**  
-> **Unauthorised use against systems you do not own or have explicit written permission to attack is a criminal offence.**  
-> **The authors accept absolutely no liability for misuse or illegal activity.**
-
-<br>
-
----
+- Run inside a terminal with a dark background for the best use.
 
 ## 🐙 REPOSITORY
 
